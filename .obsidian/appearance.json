@@ -1,0 +1,11 @@
+{
+  "enabledCssSnippets": [
+    "tweaks",
+    "tableStyles",
+    "git",
+    "status-bar"
+  ],
+  "cssTheme": "Shimmering Focus",
+  "showViewHeader": true,
+  "showRibbon": true
+}

@@ -1,0 +1,15 @@
+main[data-type='git-view'] #pull {
+  display: none !important;
+}
+
+main[data-type='git-view'] #unstage-all {
+  display: none !important;
+}
+
+main[data-type='git-view'] #push {
+  display: none !important;
+}
+
+main[data-type='git-view'] #commit-btn {
+  display: none !important;
+}

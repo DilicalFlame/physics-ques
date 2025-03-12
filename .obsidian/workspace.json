@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "0d10dfb2e8db29ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "2de3aee70d2ca8e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "561bcc9ff572579a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kinematics.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kinematics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3676b788a416e13d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d62157d88bb0769",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "795b443c8c816c8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "baf3cc218b852a4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bd5d93bf7ec84dd6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.5
+  },
+  "right": {
+    "id": "627b8f618608f845",
+    "type": "split",
+    "children": [
+      {
+        "id": "416abebd4e714610",
+        "type": "tabs",
+        "dimension": 40.98360655737705,
+        "children": [
+          {
+            "id": "5c990bd9552c0cb2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Kinematics.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Kinematics"
+            }
+          }
+        ]
+      },
+      {
+        "id": "58ccc34c039fb0a0",
+        "type": "tabs",
+        "dimension": 59.01639344262295,
+        "children": [
+          {
+            "id": "0668fc11c6aaf290",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "4359fadd550a9306",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bf0c8c03b86e4c0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kinematics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kinematics"
+            }
+          },
+          {
+            "id": "032e50b632af762c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kinematics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kinematics"
+            }
+          },
+          {
+            "id": "ddba77e3cf364aa4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kinematics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kinematics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
+    }
+  },
+  "active": "0668fc11c6aaf290",
+  "lastOpenFiles": [
+    "questions/20250312201859.md",
+    "Kinematics.md",
+    "questions/20250224172240.md",
+    "templater/Kinematics Template.md",
+    "questions/20250312201053.md",
+    "questions/20250312180706.md",
+    "questions/20250312175859.md",
+    "questions/20250312180904.md",
+    "templater",
+    "questions/20250224173331.md",
+    "Welcome.md"
+  ]
+}

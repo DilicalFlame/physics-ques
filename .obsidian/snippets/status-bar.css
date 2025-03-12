@@ -1,0 +1,12 @@
+div[class="status-bar-item plugin-obsidian-git obsidian-git-statusbar-idle"] {
+  display: none !important;
+}
+
+div[class="status-bar-item plugin-obsidian-git obsidian-git-statusbar-idle obsidian-git-statusbar-status"] {
+  display: none !important;
+}
+
+div[class="status-bar-item plugin-obsidian-git mod-clickable"] {
+  display: none !important;
+}
+

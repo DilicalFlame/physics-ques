@@ -1,0 +1,35 @@
+{
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ]
+}

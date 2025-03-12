@@ -1,0 +1,26 @@
+/* --------------------------------------------------- */
+/* prop-hide cssclass to hide property panel in any note */
+.prop-hide .metadata-container {
+  display: none !important;
+}
+
+/* --------------------------------------------------- */
+/* title-hide cssclass to hide inline title of any note */
+.title-hide .inline-title {
+  display: none !important;
+}
+
+/* --------------------------------------------------- */
+/* hide underlines from links */
+a {
+  text-decoration: none !important;
+}
+
+.inline-img .excalidraw-svg {
+  display: inline;
+}
+
+.sm-img img {
+  width: 18px !important;
+  height: 18px !important;
+}
