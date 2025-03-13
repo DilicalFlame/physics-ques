@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Kinematics"
             }
+          },
+          {
+            "id": "c383dc3c7573f07f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "questions/20250313213149.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "20250313213149"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kinematics.md",
+                "file": "questions/20250313213149.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Kinematics"
+              "title": "Graph of 20250313213149"
             }
           }
         ]
@@ -227,34 +242,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "e8106072b68e2521",
+  "active": "c383dc3c7573f07f",
   "lastOpenFiles": [
+    "Kinematics.md",
+    "questions/20250313213149.md",
+    "questions/20250313212732.md",
+    "questions/20250313212339.md",
+    "excalidraw/20250313212339 2025-03-13 21.25.14.excalidraw.md",
+    "questions/20250313212202.md",
+    "questions/20250313211754.md",
+    "questions/20250313210729.md",
+    "questions/20250313210337.md",
+    "excalidraw/20250313210337 2025-03-13 21.05.19.excalidraw.md",
+    "questions/20250313205954.md",
+    "excalidraw/20250313205954 2025-03-13 21.01.18.excalidraw.md",
+    "questions/20250313202320.md",
+    "excalidraw/20250313205251 2025-03-13 20.54.08.excalidraw.md",
+    "questions/20250313205251.md",
     "questions/20250313204842.md",
     "questions/20250313204540.md",
-    "Kinematics.md",
     "questions/20250313204253.md",
     "questions/20250313203746.md",
     "questions/20250313203429.md",
-    "questions/20250313202320.md",
     "excalidraw/20250313202320 2025-03-13 20.30.16.excalidraw.md",
     "questions/20250313201041.md",
     "excalidraw/20250313201041 2025-03-13 20.18.00.excalidraw.md",
     "questions/20250313200821.md",
     "questions/20250313195543.md",
     "questions/20250313200329.md",
-    "questions/20250313200502.md",
-    "questions/20250313200600.md",
-    "questions/20250313195514.md",
-    "templater/Kinematics Template.md",
-    "questions/20250313195418.md",
-    "questions/20250313193701.md",
-    "questions/20250313135214.md",
-    "excalidraw/20250313135214 2025-03-13 14.05.42.excalidraw.md",
-    "questions/20250313134555.md",
-    "questions/20250312201053.md",
-    "questions/20250312201859.md",
-    "questions/20250224172240.md",
-    "questions/20250312180706.md",
     "templater"
   ]
 }
