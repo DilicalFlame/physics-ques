@@ -1,5 +1,6 @@
 {
   "pinned": [
+    "zk-prefixer",
     "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-popout",
     "app:open-vault"
   ]

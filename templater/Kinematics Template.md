@@ -7,7 +7,7 @@ cssclasses:
 #question #mechanics/kinematics 
 
 > [!question] Question 
-> ques:: 
+> ques:: <% tp.file.cursor(0) %>
 
 %%
 ## Solution

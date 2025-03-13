@@ -10,3 +10,8 @@ div[class="status-bar-item plugin-obsidian-git mod-clickable"] {
   display: none !important;
 }
 
+div[class="status-bar-item plugin-obsidian-git obsidian-git-statusbar-idle obsidian-git-statusbar-status obsidian-git-statusbar-add obsidian-git-statusbar-commit obsidian-git-statusbar-message"] {
+  display: none !important;
+}
+
+

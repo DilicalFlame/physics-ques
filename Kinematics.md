@@ -12,6 +12,6 @@ cssclasses:
 
 
 ```dataview
-table without id link(file.link, "🔗") as File, ques as Question from #mechanics/kinematics and #question and -"templater/Kinematics Template" sort file.ctime desc
+table without id link(file.link, "🔗") as "", ques as Question from #mechanics/kinematics and #question and -"templater/Kinematics Template" sort file.ctime desc
 ```
 

@@ -8,8 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "561bcc9ff572579a",
+            "id": "e8106072b68e2521",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "preview",
                 "source": true
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Kinematics"
             }
@@ -217,8 +219,6 @@
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -227,18 +227,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "0668fc11c6aaf290",
+  "active": "e8106072b68e2521",
   "lastOpenFiles": [
-    "questions/20250312201859.md",
+    "questions/20250313204842.md",
+    "questions/20250313204540.md",
     "Kinematics.md",
-    "questions/20250224172240.md",
+    "questions/20250313204253.md",
+    "questions/20250313203746.md",
+    "questions/20250313203429.md",
+    "questions/20250313202320.md",
+    "excalidraw/20250313202320 2025-03-13 20.30.16.excalidraw.md",
+    "questions/20250313201041.md",
+    "excalidraw/20250313201041 2025-03-13 20.18.00.excalidraw.md",
+    "questions/20250313200821.md",
+    "questions/20250313195543.md",
+    "questions/20250313200329.md",
+    "questions/20250313200502.md",
+    "questions/20250313200600.md",
+    "questions/20250313195514.md",
     "templater/Kinematics Template.md",
+    "questions/20250313195418.md",
+    "questions/20250313193701.md",
+    "questions/20250313135214.md",
+    "excalidraw/20250313135214 2025-03-13 14.05.42.excalidraw.md",
+    "questions/20250313134555.md",
     "questions/20250312201053.md",
+    "questions/20250312201859.md",
+    "questions/20250224172240.md",
     "questions/20250312180706.md",
-    "questions/20250312175859.md",
-    "questions/20250312180904.md",
-    "templater",
-    "questions/20250224173331.md",
-    "Welcome.md"
+    "templater"
   ]
 }

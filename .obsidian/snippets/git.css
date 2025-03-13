@@ -6,10 +6,7 @@ main[data-type='git-view'] #unstage-all {
   display: none !important;
 }
 
-main[data-type='git-view'] #push {
+main[data-type='git-view'] #backup-btn {
   display: none !important;
 }
 
-main[data-type='git-view'] #commit-btn {
-  display: none !important;
-}
