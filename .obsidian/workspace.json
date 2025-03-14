@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "questions/20250314172802.md",
+                "file": "questions/20250314175839.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "20250314172802"
+              "title": "20250314175839"
             }
           }
         ],
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "questions/20250314172802.md",
+                "file": "questions/20250314175839.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 20250314172802"
+              "title": "Graph of 20250314175839"
             }
           }
         ]
@@ -260,10 +260,21 @@
   },
   "active": "15e7940987106268",
   "lastOpenFiles": [
-    "questions/20250314172912.md",
-    "questions/20250314172802.md",
-    "questions/20250314172150.md",
     "Dynamics.md",
+    "questions/20250314175839.md",
+    "questions/20250314175646.md",
+    "questions/20250314175347.md",
+    "questions/20250314175027.md",
+    "questions/20250314174901.md",
+    "questions/20250314174733.md",
+    "questions/20250314174402.md",
+    "questions/20250314174616.md",
+    "questions/20250314173904.md",
+    "questions/20250314173549.md",
+    "questions/20250314173047.md",
+    "questions/20250314172802.md",
+    "questions/20250314172912.md",
+    "questions/20250314172150.md",
     "excalidraw/20250314172150 2025-03-14 17.23.37.excalidraw.md",
     "questions/20250314171918.md",
     "questions/20250314171303.md",
@@ -275,17 +286,6 @@
     "excalidraw/20250314110021 2025-03-14 11.03.04.excalidraw.md",
     "questions/20250314105431.md",
     "excalidraw/20250314105431 2025-03-14 10.57.40.excalidraw.md",
-    "questions/20250314104713.md",
-    "excalidraw/20250314104713 2025-03-14 10.50.02.excalidraw.md",
-    "questions/20250314104053.md",
-    "excalidraw/20250314104053 2025-03-14 10.43.19.excalidraw.md",
-    "questions/20250314103410.md",
-    "questions/20250314103159.md",
-    "questions/20250314102516.md",
-    "excalidraw/20250314102516 2025-03-14 10.28.22.excalidraw.md",
-    "questions/20250314101736.md",
-    "questions/20250314102155.md",
-    "excalidraw/20250314101736 2025-03-14 10.18.51.excalidraw.md",
     "templater"
   ]
 }

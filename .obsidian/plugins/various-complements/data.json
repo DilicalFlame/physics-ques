@@ -26,7 +26,7 @@
   "showMatchStrategy": false,
   "showComplementAutomatically": false,
   "showIndexingStatus": false,
-  "descriptionOnSuggestion": "Short",
+  "descriptionOnSuggestion": "None",
   "hotkeys": {
     "select": [
       {
@@ -65,10 +65,10 @@
   "currentFileMinNumberOfCharacters": 0,
   "onlyComplementEnglishOnCurrentFileComplement": false,
   "excludeCurrentFileWordPatterns": [],
-  "enableCurrentVaultComplement": false,
+  "enableCurrentVaultComplement": true,
   "currentVaultMinNumberOfCharacters": 0,
   "includeCurrentVaultPathPrefixPatterns": "",
-  "excludeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "excalidraw/\ntemplater/",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "excludeCurrentVaultWordPatterns": [],
   "enableCustomDictionaryComplement": false,
