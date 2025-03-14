@@ -22,8 +22,39 @@
               "icon": "lucide-file",
               "title": "Kinematics"
             }
+          },
+          {
+            "id": "704add9cef8e2804",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamics.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dynamics"
+            }
+          },
+          {
+            "id": "15e7940987106268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "questions/20250314103410.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "20250314103410"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kinematics.md",
+                "file": "questions/20250314103410.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +156,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Kinematics"
+              "title": "Graph of 20250314103410"
             }
           }
         ]
@@ -227,34 +258,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "e8106072b68e2521",
+  "active": "15e7940987106268",
   "lastOpenFiles": [
+    "Dynamics.md",
+    "questions/20250314103410.md",
+    "questions/20250314103159.md",
+    "questions/20250314102516.md",
+    "excalidraw/20250314102516 2025-03-14 10.28.22.excalidraw.md",
+    "questions/20250314101736.md",
+    "questions/20250314102155.md",
+    "excalidraw/20250314101736 2025-03-14 10.18.51.excalidraw.md",
+    "questions/20250314101549.md",
+    "questions/20250314100835.md",
+    "excalidraw/20250314100835 2025-03-14 10.10.23.excalidraw.md",
+    "questions/20250314100454.md",
+    "excalidraw/20250314100454 2025-03-14 10.06.14.excalidraw.md",
+    "questions/20250314011203.md",
+    "excalidraw/20250314011203 2025-03-14 01.15.40.excalidraw.md",
+    "questions/20250314010811.md",
+    "excalidraw/20250314010811 2025-03-14 01.10.35.excalidraw.md",
+    "Kinematics.md",
+    "templater/Dynamics Template.md",
+    "templater/Kinematics Template.md",
     "questions/20250313221847.md",
     "questions/20250313221023.md",
     "excalidraw/20250313221023 2025-03-13 22.14.19.excalidraw.md",
     "questions/20250313220359.md",
-    "Kinematics.md",
     "excalidraw/20250313220359 2025-03-13 22.07.52.excalidraw.md",
     "questions/20250313220136.md",
-    "questions/20250313215747.md",
-    "excalidraw/20250313215747 2025-03-13 21.59.46.excalidraw.md",
-    "questions/20250313215201.md",
-    "excalidraw/20250313215201 2025-03-13 21.53.58.excalidraw.md",
-    "questions/20250313214906.md",
-    "questions/20250313214703.md",
-    "questions/20250313214338.md",
-    "questions/20250313214141.md",
-    "questions/20250313213949.md",
-    "questions/20250313213149.md",
-    "questions/20250313212732.md",
-    "questions/20250313212339.md",
-    "excalidraw/20250313212339 2025-03-13 21.25.14.excalidraw.md",
-    "questions/20250313212202.md",
-    "questions/20250313211754.md",
-    "questions/20250313210729.md",
-    "questions/20250313210337.md",
-    "excalidraw/20250313210337 2025-03-13 21.05.19.excalidraw.md",
-    "questions/20250313205954.md",
     "templater"
   ]
 }
