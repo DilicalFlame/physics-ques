@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "questions/20250314103410.md",
+                "file": "questions/20250314172802.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "20250314103410"
+              "title": "20250314172802"
             }
           }
         ],
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "questions/20250314103410.md",
+                "file": "questions/20250314172802.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 20250314103410"
+              "title": "Graph of 20250314172802"
             }
           }
         ]
@@ -260,7 +260,25 @@
   },
   "active": "15e7940987106268",
   "lastOpenFiles": [
+    "questions/20250314172912.md",
+    "questions/20250314172802.md",
+    "questions/20250314172150.md",
     "Dynamics.md",
+    "excalidraw/20250314172150 2025-03-14 17.23.37.excalidraw.md",
+    "questions/20250314171918.md",
+    "questions/20250314171303.md",
+    "excalidraw/20250314171303 2025-03-14 17.16.13.excalidraw.md",
+    "questions/20250314171122.md",
+    "questions/20250314110531.md",
+    "excalidraw/20250314110531 2025-03-14 11.08.52.excalidraw.md",
+    "questions/20250314110021.md",
+    "excalidraw/20250314110021 2025-03-14 11.03.04.excalidraw.md",
+    "questions/20250314105431.md",
+    "excalidraw/20250314105431 2025-03-14 10.57.40.excalidraw.md",
+    "questions/20250314104713.md",
+    "excalidraw/20250314104713 2025-03-14 10.50.02.excalidraw.md",
+    "questions/20250314104053.md",
+    "excalidraw/20250314104053 2025-03-14 10.43.19.excalidraw.md",
     "questions/20250314103410.md",
     "questions/20250314103159.md",
     "questions/20250314102516.md",
@@ -268,24 +286,6 @@
     "questions/20250314101736.md",
     "questions/20250314102155.md",
     "excalidraw/20250314101736 2025-03-14 10.18.51.excalidraw.md",
-    "questions/20250314101549.md",
-    "questions/20250314100835.md",
-    "excalidraw/20250314100835 2025-03-14 10.10.23.excalidraw.md",
-    "questions/20250314100454.md",
-    "excalidraw/20250314100454 2025-03-14 10.06.14.excalidraw.md",
-    "questions/20250314011203.md",
-    "excalidraw/20250314011203 2025-03-14 01.15.40.excalidraw.md",
-    "questions/20250314010811.md",
-    "excalidraw/20250314010811 2025-03-14 01.10.35.excalidraw.md",
-    "Kinematics.md",
-    "templater/Dynamics Template.md",
-    "templater/Kinematics Template.md",
-    "questions/20250313221847.md",
-    "questions/20250313221023.md",
-    "excalidraw/20250313221023 2025-03-13 22.14.19.excalidraw.md",
-    "questions/20250313220359.md",
-    "excalidraw/20250313220359 2025-03-13 22.07.52.excalidraw.md",
-    "questions/20250313220136.md",
     "templater"
   ]
 }

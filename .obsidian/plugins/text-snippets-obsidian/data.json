@@ -1,5 +1,5 @@
 {
-  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nhz : horizontal\nvt : vertical\nex : experience\neg : example\nins : instantaneous\nmax : maximum\nmin : minimum\ncoor : co-ordinates\nwrt : with respect to\nst : straight\nacc : acceleration\n\nal : $\\alpha$\nbe : $\\beta$\nga : $\\gamma$\nep : $\\epsilon$\nth : $\\theta$\n\nm : \\text{ m}\nms : \\text{ m/sec}\nmss : \\text{ m/}s^{2}\nla : \\langle\nra : \\rangle\nds : \\displaystyle\n\ni : (i)\nii : (ii)\niii : (iii)\niv : (iv)\nfig : (fig)\n\nvo : $v_{o}$\nv : $v$\nao : $a_{o}$\nxo : $x_{o}$\nO : $O$\nOd : $O'$\nA : $A$\nB : $B$\nM : $M$\ng10 : $g=10 \\text{ m/}s^2$",
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nhz : horizontal\nvt : vertical\nex : experience\neg : example\nins : instantaneous\nmax : maximum\nmin : minimum\ncoor : co-ordinates\nwrt : with respect to\nst : straight\nacc : acceleration\nresp : respectively\n\nal : $\\alpha$\nbe : $\\beta$\nga : $\\gamma$\nep : $\\epsilon$\nth : $\\theta$\n\nm : \\text{ m}\nms : \\text{ m/sec}\nmss : \\text{ m/}s^{2}\nla : \\langle\nra : \\rangle\nds : \\displaystyle\n\ni : (i)\nii : (ii)\niii : (iii)\niv : (iv)\nfig : (fig)\n\nvo : $v_{o}$\nv : $v$\nao : $a_{o}$\nxo : $x_{o}$\nO : $O$\nOd : $O'$\nA : $A$\nB : $B$\nM : $M$\ng10 : $g=10 \\text{ m/}s^2$",
   "snippets": [
     "snippets : It is an obsidian plugin, that replaces your selected text.",
     "hz : horizontal",
@@ -13,6 +13,7 @@
     "wrt : with respect to",
     "st : straight",
     "acc : acceleration",
+    "resp : respectively",
     "al : $\\alpha$",
     "be : $\\beta$",
     "ga : $\\gamma$",
